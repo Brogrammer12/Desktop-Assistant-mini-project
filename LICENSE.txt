@@ -1,0 +1,13 @@
+Personal Use License
+--------------------
+Copyright © 2025 Ian Eubanks
+
+This software is provided for personal, non-commercial use only.
+
+You may:
+- Use the software on your own devices.
+
+You may NOT:
+- Sell, redistribute, or modify this software for commercial purposes.
+
+By using this software, you agree to these terms.
